@@ -1,0 +1,114 @@
+{
+    "name": "StrikeIron",
+    "description": "<p>StrikeIron is the leader in Data-as-a-Service (DaaS), delivering data quality and communications solutions via our cloud platform IronCloud. We provide address verification, email verification, phone validation, phone append, SMS text messaging, and sales tax solutions to customers in a variety of markets. Our solutions are delivered as Web services that can be easily integrated into any application or system. Additionally, our solutions are pre-integrated into leading platforms like: Salesforce.com, Magento, Informatica, Oracle CRM On-Demand, and more.&nbsp;<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/372-informatica.jpg",
+    "tags": [
+        "address verification",
+        "api lifeycle",
+        "api management other",
+        "api provider",
+        "business",
+        "catalog",
+        "census",
+        "data",
+        "data provider",
+        "distance",
+        "exchange",
+        "financial",
+        "geo",
+        "global",
+        "have api",
+        "have swagger",
+        "locations",
+        "management",
+        "marketplaces",
+        "money",
+        "news",
+        "phones",
+        "shopping",
+        "stocks",
+        "verification",
+        "zip codes"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/strikeiron\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Restman Swagger",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/372-informatica.jpg",
+            "humanURL": "http:\/\/www.informatica.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/restman-swagger-openapi.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/restman-swagger.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/restman-swagger-postman-collection.json"
+                }
+            ]
+        },
+        {
+            "name": "StrikeIron",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/372-informatica.jpg",
+            "humanURL": "http:\/\/www.informatica.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/strikeiron-openapi.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/strikeiron.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/strikeiron-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.informatica.com"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.informatica.com\/about-us\/informatica-blog.html"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.strikeiron.com\/CMS\/UI\/Modules\/BizBlogger\/rss.aspx"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/strikeiron"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/372-2019-09-03-21-48-28.json"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/informatica"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.informatica.com"
+        }
+    ]
+}
